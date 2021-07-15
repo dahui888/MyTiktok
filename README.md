@@ -1,7 +1,7 @@
 高仿抖音APP
 
 这里是简书博客地址
-[https://www.jianshu.com/p/f1f452abc328](https://www.jianshu.com/p/f1f452abc328) 
+[https://www.jianshu.com/u/37d88b909f3b](https://www.jianshu.com/u/37d88b909f3b) 
 
 ![抖音，记录别人的美好生活](https://upload-images.jianshu.io/upload_images/8669504-3293ef3c6d1d27d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
 
